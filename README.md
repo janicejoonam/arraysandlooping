@@ -12,12 +12,12 @@ A user should be able to enter a new number and see new results over and over ag
 
 <h2>Specifications</h2>
 <li>It can count up to the provided number</li>
-<li type="circle">Example Input: 2</li>
-<li type="circle">Example Output: [1, 2]</li>
+  <li type="circle">Example Input: 2</li>
+  <li type="circle">Example Output: [1, 2]</li>
 
 <li>It can replace numbers divisible by 3 with "ping"</li>
-<li type="circle">Example Input: 3</li>
-<li type="circle">Example Output: [1, 2, ping]</li>
+  <li type="circle">Example Input: 3</li>
+  <li type="circle">Example Output: [1, 2, ping]</li>
 <li>It can replace numbers divisible by 5 with "pong"</li>
 <li type="circle">Example Input: 5</li>
 <li type="circle">Example Output: [1, 2, ping, 4, pong]</li>
