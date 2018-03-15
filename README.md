@@ -42,17 +42,20 @@ A user should be able to enter a new number and see new results over and over ag
   <li type="circle">Example Output: [1, 2, ping, 4, pong, ping, 7, 8, ping, pong, 11, ping, 13, 14, pingpong]</li>
   </ul>
 </ul>
+
 <h2>Setup/Installation Requirements</h2>
-*Open web browser
-*Open web page
--This is a simple webpage. You shouldn't have any issues with this.
--Link to site on GitHub pages: https://github.com/janicejoonam/arraysandlooping
-*Open Terminal
-*In Terminal, enter the following:
-git clone https://github.com/janicejoonam/arraysandlooping.git
-cd arraysandlooping
-*Then, open the arraysandlooping folder on your Desktop and open the index.html file
-*This will open the webpage on your web browser
+<p>*Open web browser</p>
+<p>*Open web page</p>
+<ul>
+<li>This is a simple webpage. You shouldn't have any issues with this.</li>
+<li>Link to site on GitHub pages: https://github.com/janicejoonam/arraysandlooping </li>
+<p>*Open Terminal</p>
+<p>*In Terminal, enter the following:</p>
+<ul>
+<li>git clone https://github.com/janicejoonam/arraysandlooping.git</li>
+<li>cd arraysandlooping</li>
+<p>*Then, open the arraysandlooping folder on your Desktop and open the index.html file</p>
+<p>*This will open the webpage on your web browser</p>
 
 <h2>Known Bugs</h2>
 *Not applicable.
