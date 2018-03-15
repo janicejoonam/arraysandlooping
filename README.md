@@ -16,19 +16,22 @@ A user should be able to enter a new number and see new results over and over ag
   <ul>
   <li type="circle">Example Input: 2</li>
   <li type="circle">Example Output: [1, 2]</li>
+  </ul>
 
 <ul>
 <li>It can replace numbers divisible by 3 with "ping"</li>
   <ul>
   <li type="circle">Example Input: 3</li>
   <li type="circle">Example Output: [1, 2, ping]</li>
+  </ul>
 
 <ul>
 <li>It can replace numbers divisible by 5 with "pong"</li>
   <ul>
   <li type="circle">Example Input: 5</li>
   <li type="circle">Example Output: [1, 2, ping, 4, pong]</li>
-
+  </ul>
+  
 <ul>
 <li>It can replace numbers divisible by 3 and 5 with "pingpong"</li>
   <ul>
