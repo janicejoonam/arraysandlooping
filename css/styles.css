@@ -1,5 +1,6 @@
 body {
   font-size: 2vw;
+  font-family: sans-serif;
 }
 
 img {
@@ -7,9 +8,13 @@ img {
   height: auto;
 }
 
-h1, h4 {
+h1, h2 {
   text-align: center;
   font-size: 2vw;
+}
+
+p {
+  font size: 2vw;
 }
 
 .jumbotron-fluid {
