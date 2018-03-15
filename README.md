@@ -11,19 +11,29 @@ Create a web application that takes a number from a user and returns a range of 
 A user should be able to enter a new number and see new results over and over again.
 
 <h2>Specifications</h2>
+<ul>
 <li>It can count up to the provided number</li>
+  <ul>
   <li type="circle">Example Input: 2</li>
   <li type="circle">Example Output: [1, 2]</li>
 
+<ul>
 <li>It can replace numbers divisible by 3 with "ping"</li>
+  <ul>
   <li type="circle">Example Input: 3</li>
   <li type="circle">Example Output: [1, 2, ping]</li>
+
+<ul>
 <li>It can replace numbers divisible by 5 with "pong"</li>
-<li type="circle">Example Input: 5</li>
-<li type="circle">Example Output: [1, 2, ping, 4, pong]</li>
+  <ul>
+  <li type="circle">Example Input: 5</li>
+  <li type="circle">Example Output: [1, 2, ping, 4, pong]</li>
+
+<ul>
 <li>It can replace numbers divisible by 3 and 5 with "pingpong"</li>
-<li type="circle">Example Input: 15</li>
-<li type="circle">Example Output: [1, 2, ping, 4, pong, ping, 7, 8, ping, pong, 11, ping, 13, 14, pingpong]</li>
+  <ul>
+  <li type="circle">Example Input: 15</li>
+  <li type="circle">Example Output: [1, 2, ping, 4, pong, ping, 7, 8, ping, pong, 11, ping, 13, 14, pingpong]</li>
 
 <h2>Setup/Installation Requirements</h2>
 *Open web browser
