@@ -1,5 +1,15 @@
+body {
+  font-size: 2vw;
+}
+
+img {
+  width: 60%;
+  height: auto;
+}
+
 h1, h4 {
   text-align: center;
+  font-size: 2vw;
 }
 
 .jumbotron-fluid {
@@ -7,5 +17,10 @@ h1, h4 {
 }
 
 .container-fluid {
+  background-color: #e6ccff;
+}
+
+.btn {
   background-color: #cc99ff;
+  color: white;
 }
