@@ -17,6 +17,7 @@ A user should be able to enter a new number and see new results over and over ag
   <li type="circle">Example Input: 2</li>
   <li type="circle">Example Output: [1, 2]</li>
   </ul>
+</ul>
 
 <ul>
 <li>It can replace numbers divisible by 3 with "ping"</li>
@@ -24,6 +25,7 @@ A user should be able to enter a new number and see new results over and over ag
   <li type="circle">Example Input: 3</li>
   <li type="circle">Example Output: [1, 2, ping]</li>
   </ul>
+</ul>
 
 <ul>
 <li>It can replace numbers divisible by 5 with "pong"</li>
@@ -31,13 +33,15 @@ A user should be able to enter a new number and see new results over and over ag
   <li type="circle">Example Input: 5</li>
   <li type="circle">Example Output: [1, 2, ping, 4, pong]</li>
   </ul>
-  
+</ul>
+
 <ul>
 <li>It can replace numbers divisible by 3 and 5 with "pingpong"</li>
   <ul>
   <li type="circle">Example Input: 15</li>
   <li type="circle">Example Output: [1, 2, ping, 4, pong, ping, 7, 8, ping, pong, 11, ping, 13, 14, pingpong]</li>
-
+  </ul>
+</ul>
 <h2>Setup/Installation Requirements</h2>
 *Open web browser
 *Open web page
