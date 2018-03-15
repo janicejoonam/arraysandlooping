@@ -49,11 +49,13 @@ A user should be able to enter a new number and see new results over and over ag
 <ul>
 <li>This is a simple webpage. You shouldn't have any issues with this.</li>
 <li>Link to site on GitHub pages: https://github.com/janicejoonam/arraysandlooping </li>
+</ul>
 <p>*Open Terminal</p>
 <p>*In Terminal, enter the following:</p>
 <ul>
 <li>git clone https://github.com/janicejoonam/arraysandlooping.git</li>
 <li>cd arraysandlooping</li>
+</ul>
 <p>*Then, open the arraysandlooping folder on your Desktop and open the index.html file</p>
 <p>*This will open the webpage on your web browser</p>
 
