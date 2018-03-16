@@ -1,6 +1,7 @@
 body {
   font-size: 2vw;
   font-family: sans-serif;
+  font-weight: bold;
 }
 
 img {
@@ -18,11 +19,15 @@ p {
 }
 
 .jumbotron-fluid {
-  background-color: #ffccee;
+  background-image: url(http://news.bbcimg.co.uk/media/images/61263000/jpg/_61263633_pingpong21.jpg);
+  background-repeat: repeat;
+  background-position: left;
 }
 
 .container-fluid {
-  background-color: #e6ccff;
+  background-image: url(http://news.bbcimg.co.uk/media/images/61263000/jpg/_61263633_pingpong21.jpg);
+  background-repeat: repeat;
+  background-position: left;
 }
 
 .btn {
