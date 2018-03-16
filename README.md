@@ -60,7 +60,7 @@ A user should be able to enter a new number and see new results over and over ag
 <p>*This will open the webpage on your web browser</p>
 
 <h2>Known Bugs</h2>
-*Not applicable.
+*Will not submit results
 
 <h2>Support and Contact Details</h2>
 Please contact the contributor for any questions or concerns.
