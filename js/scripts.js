@@ -1,6 +1,6 @@
 //Business Logic
 
-function pingpong(numInput) {
+function pingpong(userNumber) {
   var answer = [];
   for (var index = 1; index <= userNumber; index += 1) {
 
@@ -23,6 +23,7 @@ $(document).ready(function() {
   $("form#number").submit(function(event) {
     event.preventDefault();
     var userNumber = parseInt($("input#userInput").val());
+    console.log(userNumber);
     var userResult = pingpong(userNumber);
     var ul = $("ul#answer");
 
